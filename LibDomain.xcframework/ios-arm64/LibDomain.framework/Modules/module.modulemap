@@ -1,0 +1,6 @@
+framework module LibDomain {
+    umbrella header "LibDomain.h"
+
+    export *
+    module * { export * }
+}
